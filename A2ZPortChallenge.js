@@ -48,4 +48,5 @@ console.log(
   )
 );
 
+// Gives a console.log() if the sentence is less than two words in length
 console.log(longestWord("Smart"));
